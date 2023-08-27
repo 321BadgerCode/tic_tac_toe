@@ -2,6 +2,10 @@
 
 This is a command-line-based Tic-Tac-Toe game written in C++. The game allows you to play on an expandable game board, which means you can specify the size of the board before starting the game. Players take turns to make their moves, and the first player to complete a row, column, or diagonal with their symbol (X or O) wins the game.
 
+```diff
+- The bot only works for size 3 boards currently.
+```
+
 ## Features
 
 - Expandable game board: You can choose the size of the board, making the game more challenging and fun.
